@@ -1,0 +1,7 @@
+httpserver:
+    port: 8000
+    query: password
+files:
+  - top95.txt
+  - wpa.txt
+  - dico.txt
