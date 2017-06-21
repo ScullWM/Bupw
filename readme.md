@@ -3,7 +3,7 @@ Bupw
 Basic User Password Warning
 
 ### About
-Bupw (no idea about how to pronounce it) is a simple "micro-service" application that check if a password is a minimal secure enougth.
+Bupw (no idea about how to pronounce it) is a simple "micro-service" application that check if a password is a minimal secure enough.
 Perfect tools to check if a term is present in the [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists).
 Very fast service, it will provide you the answers quickly, no matter the number of words you've import.
 
